@@ -25,7 +25,7 @@ echo "║"$white" Dengan Yang Memakai"$yellow"              ║"
 echo "╚══════════════════════════════════╝"$white' '
 echo "            ["$green"+"$white"]"$cyan" Menu" $white"["$green"+"$white"]"
 echo $purple"         Version Tools"$red":"$cyan"1.0"
-echo $blue" Github "$white":"$green" https://github.com/zmanias"
+echo $blue" Github "$white":"$green" https://github.com/MR404cyber"
 sleep 3
 echo ' '
 echo $blue'  ════'" ╔══════════════════════════════════╗"
