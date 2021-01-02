@@ -108,7 +108,7 @@ if [ $pilih = '3' ] || [ $pilih = '03' ];
 then
 echo 'Sedang Masuk...'
 sleep 2
-xdg-open https://bit.ly/3g6A162
+xdg-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
 sh run.sh
 fi
 if [ $pilih = '0' ] || [ $pilih = '00' ];
