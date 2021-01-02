@@ -9,8 +9,8 @@ yellow='\033[33;1m'
 clear
 sleep 1
 echo $white"╔══════════════════════════════════╗"
-echo "║"$cyan"     Welcome To Tools Zmanias"$white"     ║"
-echo "║"$blue"Tools"$cyan" Version:"$white" 1.0"$green" New 2k20"$white"       ║"
+echo "║"$cyan"     Welcome To Tools MR.404"$white"     ║"
+echo "║"$blue"Tools"$cyan" Version:"$white" 1.0"$green" New 2k21"$white"       ║"
 echo "║"$red"    ["$white" Isi Di Dalam 6 Tools"$red" ]"$white"      ║"
 echo "║"$yellow"Username & Password Nya Yg Terbaru"$white"║"
 echo "║"$red"Jika Gak Tau"$white" ("$green" User & Pass Nya"$white" )  ║"
@@ -47,7 +47,7 @@ then
     fi
     if [ $pil = 2 ] || [ $pil = 02 ]
     then
-        xdg-open https://api.whatsapp.com/send?phone=6283821023375&text=Assalamualaikum%20Min%0ABoleh%20Minta%20User%20Dan%20Pw%20Nya?
+        xdg-open https://api.whatsapp.com/send?phone=6282331072836&text=Assalamualaikum%20Min%0ABoleh%20Minta%20User%20Dan%20Pw%20Nya?
         sh run.sh
     fi
     if [ $pil = 3 ] || [ $pil = 03 ]
@@ -75,8 +75,8 @@ do
   echo $blue'     ✬'$yellow'   ✬'$red'   ✬'$blue'    ╔═══════╗   ✬'$yellow'   ✬'$red'   ✬'
   echo $red'       ✬'$purple'   ✬'$blue'      ║       ║'$red'     ✬'$purple'   ✬  '
   echo $yellow'         ✬'$blue'      ╔═══════════╗'$yellow'     ✬    '
-  echo $white'  Tools Zmanias'$blue' ║'$white' L O G I N'$blue' ║'$white'  OFFICIAL'
-  echo $white'      Mr-X'$blue'      ║'$yellow' User&Pass'$blue' ║          '
+  echo $white'  Tools MR.404'$blue' ║'$white' L O G I N'$blue' ║'$white'  ANONYMOUS'
+  echo $white'      MR.404'$blue'      ║'$yellow' User&Pass'$blue' ║          '
   echo $blue'                ╚═══════════╝          '$white ' '
   echo ''
   echo    $white'        ╔═══════════╗'
@@ -87,8 +87,8 @@ do
       echo $blue'     ✬'$yellow'   ✬'$red'   ✬'$blue'    ╔═══════╗   ✬'$yellow'   ✬'$red'   ✬'
       echo $red'       ✬'$purple'   ✬'$blue'      ║       ║'$red'     ✬'$purple'   ✬  '
       echo $yellow'         ✬'$blue'      ╔═══════════╗'$yellow'     ✬    '
-      echo $white'  Tools Zmanias'$blue' ║'$white' L O G I N'$blue' ║'$white'  OFFICIAL'
-      echo $white'      Mr-X'$blue'      ║'$yellow' User&Pass'$blue' ║          '
+      echo $white'  Tools MR.404'$blue' ║'$white' L O G I N'$blue' ║'$white'  ANONYMOUS'
+      echo $white'      MR.404'$blue'      ║'$yellow' User&Pass'$blue' ║          '
       echo $blue'                ╚═══════════╝          '$white ' '
       echo ''
       echo    $white'        ╔═══════════╗'
