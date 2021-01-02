@@ -15,8 +15,8 @@ do
   echo $blue'     ✬'$yellow'   ✬'$red'   ✬'$blue'    ╔═══════╗   ✬'$yellow'   ✬'$red'   ✬'
   echo $red'       ✬'$purple'   ✬'$blue'      ║       ║'$red'     ✬'$purple'   ✬  '
   echo $yellow'         ✬'$blue'      ╔═══════════╗'$yellow'     ✬    '
-  echo $white'  Tools Zmanias'$blue' ║'$white' L O G I N'$blue' ║'$white'  OFFICIAL'
-  echo $white'      Mr-X'$blue'      ║'$yellow' User&Pass'$blue' ║          '
+  echo $white'  Tools MR.404'$blue' ║'$white' L O G I N'$blue' ║'$white'  ANONYMOUS'
+  echo $white'      Mr.404'$blue'      ║'$yellow' User&Pass'$blue' ║          '
   echo $blue'                ╚═══════════╝          '$white ' '
   echo ''
   echo    $white'        ╔═══════════╗'
@@ -26,14 +26,14 @@ do
   echo ''
   echo    $white'             ╔═══════════╗'
   read -p '             ║ Password: ' user;
-  if [ $user = 'admin' ];
+  if [ $user = 'MR.404' ];
   then
       clear
       echo $blue'     ✬'$yellow'   ✬'$red'   ✬'$blue'    ╔═══════╗   ✬'$yellow'   ✬'$red'   ✬'
       echo $red'       ✬'$purple'   ✬'$blue'      ║       ║'$red'     ✬'$purple'   ✬  '
       echo $yellow'         ✬'$blue'      ╔═══════════╗'$yellow'     ✬    '
-      echo $white'  Tools Zmanias'$blue' ║'$white' L O G I N'$blue' ║'$white'  OFFICIAL'
-      echo $white'      Mr-X'$blue'      ║'$yellow' User&Pass'$blue' ║          '
+      echo $white'  Tools MR.404'$blue' ║'$white' L O G I N'$blue' ║'$white'  ANONYMOUS'
+      echo $white'      MR.404'$blue'      ║'$yellow' User&Pass'$blue' ║          '
       echo $blue'                ╚═══════════╝          '$white ' '
       echo ''
       echo    $white'        ╔═══════════╗'
